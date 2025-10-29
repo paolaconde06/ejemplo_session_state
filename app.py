@@ -1,1 +1,1 @@
-st.titile("Ejemplo para hacer sesiones de estado")
+st.titile("Ejemplo para usar una session_state")
